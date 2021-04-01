@@ -43,3 +43,6 @@ This scene was gathered by AVIRIS sensor over the Indian Pines test site in Nort
 # Accuracy Comparison #
 ![Alt text](https://github.com/DharmeshPatel33/Land-Cover-Classification-using-Hyper-Spectral-Data-with-Deep-Learning/blob/main/Images/image005.png "Accuracy Comparison")
 
+## Support Vector Machine: Identify the  kernel and value of C which gives the best classification accuracy ##
+![Alt text](https://github.com/DharmeshPatel33/Land-Cover-Classification-using-Hyper-Spectral-Data-with-Deep-Learning/blob/main/Images/image007.png "SVM ")
+
