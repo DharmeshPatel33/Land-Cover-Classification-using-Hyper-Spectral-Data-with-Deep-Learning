@@ -27,4 +27,11 @@ This scene was gathered by AVIRIS sensor over the Indian Pines test site in Nort
 
 ## Few Band Images ##
 
-![Alt text](https://github.com/DharmeshPatel33/Land-Cover-Classification-using-Hyper-Spectral-Data-with-Deep-Learning/blob/main/Images/image001.png "Title")
+![Alt text](https://github.com/DharmeshPatel33/Land-Cover-Classification-using-Hyper-Spectral-Data-with-Deep-Learning/blob/main/Images/image001.png "Few Band Images")
+
+## Actual Image and its Ground Truth ##
+![Alt text](https://github.com/DharmeshPatel33/Land-Cover-Classification-using-Hyper-Spectral-Data-with-Deep-Learning/blob/main/Images/image002.png "Actual Image and its Ground Truth")
+
+## Dataset Features ##
+21025 Samples, Which having 200 Bands
+![Alt text](https://github.com/DharmeshPatel33/Land-Cover-Classification-using-Hyper-Spectral-Data-with-Deep-Learning/blob/main/Images/image003.png "Dataset Features")
