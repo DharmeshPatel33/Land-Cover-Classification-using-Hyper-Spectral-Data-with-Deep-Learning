@@ -23,3 +23,6 @@ This scene was gathered by AVIRIS sensor over the Indian Pines test site in Nort
 |14	| Woods |	1265 |
 |15	|Buildings-Grass-Trees-Drives |	386 |
 |16	|Stone-Steel-Towers |	93 |
+
+
+## Few Band Images ##
